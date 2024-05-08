@@ -1,0 +1,22 @@
+.heading{
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.Note{
+    font-size: 20px;
+    color: black;
+}
+
+canvas{
+    border: #ff0000 15px dotted;
+    border-radius: 10%;
+    background-color: aquamarine;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    background-color: chartreuse;
+    width: 100%;
+}
